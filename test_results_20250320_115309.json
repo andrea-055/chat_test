@@ -1,76 +1,77 @@
 [
     {
         "user": 0,
-        "average_time": 2.4638514041900637,
+        "average_time": 2.7124256134033202,
         "message_count": 5
     },
     {
         "user": 1,
-        "average_time": 2.530799388885498,
+        "average_time": 2.5179369926452635,
         "message_count": 5
     },
     {
         "user": 2,
-        "average_time": 2.563717079162598,
+        "average_time": 2.4936804294586183,
         "message_count": 5
     },
     {
         "user": 3,
-        "average_time": 2.5623239040374757,
+        "average_time": 2.5954819679260255,
         "message_count": 5
     },
     {
         "user": 4,
-        "average_time": 2.5608598232269286,
+        "average_time": 2.491073799133301,
         "message_count": 5
     },
     {
         "user": 5,
-        "average_time": 0.8150752067565918,
+        "average_time": 1.2066621780395508,
         "message_count": 5
     },
     {
         "user": 6,
-        "average_time": 0.7886663913726807,
+        "average_time": 1.1371764659881591,
         "message_count": 5
     },
     {
         "user": 7,
-        "average_time": 2.574970817565918,
+        "average_time": 2.507847213745117,
         "message_count": 5
     },
     {
         "user": 8,
-        "average_time": 1.725653886795044,
+        "average_time": 1.1313067436218263,
         "message_count": 5
     },
     {
         "user": 9,
-        "average_time": 0.7680178165435791,
+        "average_time": 0.7819611549377441,
         "message_count": 5
     },
     {
         "user": 10,
-        "average_time": 1.1932382106781005,
+        "average_time": 2.5717448711395265,
         "message_count": 5
     },
     {
         "user": 11,
-        "error": "Page.wait_for_selector: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\".chat-input__sending\") to be visible\n"
+        "average_time": 2.6027307987213133,
+        "message_count": 5
     },
     {
         "user": 12,
-        "average_time": 1.6755585670471191,
+        "average_time": 2.533776569366455,
         "message_count": 5
     },
     {
         "user": 13,
-        "average_time": 2.604146432876587,
+        "average_time": 2.638392686843872,
         "message_count": 5
     },
     {
         "user": 14,
-        "average_time": 2.5628871440887453,
+        "average_time": 2.6079354763031004,
         "message_count": 5
     }
 ]
