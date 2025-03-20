@@ -1,0 +1,27 @@
+[
+    {
+        "user": 0,
+        "average_time": 2.4123483180999754,
+        "message_count": 5
+    },
+    {
+        "user": 1,
+        "average_time": 2.513871908187866,
+        "message_count": 5
+    },
+    {
+        "user": 2,
+        "average_time": 2.4075907707214355,
+        "message_count": 5
+    },
+    {
+        "user": 3,
+        "average_time": 2.403377151489258,
+        "message_count": 5
+    },
+    {
+        "user": 4,
+        "average_time": 2.4989742279052733,
+        "message_count": 5
+    }
+]
